@@ -1,0 +1,65 @@
+
+.photosize
+{
+    height:550px;
+    width:100%;
+  
+    background-position: center;
+    background-size: cover;
+    
+  
+    
+}
+.carousel-indicators [data-bs-target]
+ {
+
+  
+  background-color:yellow;
+  height:14px;
+  width:14px;
+  border-radius:10%;
+  
+}
+
+span.carousel-control-prev-icon
+
+{
+ background-color: rgb(126, 124, 124);
+ margin-right:150px;
+}
+span.carousel-control-next-icon
+{
+  background-color: rgb(126, 124, 124);
+  margin-left:150px;
+}
+
+.carousel-inner
+{
+  height: 550px;
+  background-position: center;
+  background-size: cover;
+}
+.w-100 
+{
+ height: 550px;
+  background-position: center;
+  background-size: cover;
+}
+.lastestproductclass
+{
+  width:100%;
+  height:fit-content;
+  display:flex;
+  justify-content:center;
+  margin-top:5px;
+  background-color:rgb(245, 185, 185);
+  color: seagreen;
+
+}
+
+
+
+
+
+
+

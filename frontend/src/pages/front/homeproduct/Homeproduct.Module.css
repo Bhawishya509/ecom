@@ -1,0 +1,56 @@
+.card
+{
+  margin-top:5px;
+  height:100%;
+  width: 270px;
+  margin-left: 12px;
+  border-radius:6px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 3px 1px 10px 3px rgb(194, 187, 187);
+  
+
+}
+.homeproducthead
+{
+  width:100%;
+  display:flex;
+}
+.card-img-top
+{
+  height:60%;
+
+}
+.card-title
+{
+  display:flex;
+  width:100%;
+  justify-content:center;
+}
+.homeproduct
+{
+  display:flex;
+  width:100%;
+  overflow-x: auto;
+  flex-wrap: wrap;
+  flex-direction: column;
+  height:400px;
+ 
+}
+.homeproduct::-webkit-scrollbar
+{
+     align-items: center;
+     width: 0.2px;
+     height:6px;
+     border-radius: 2px;
+     background-color: #d8e0e7; 
+}
+
+.homeproduct::-webkit-scrollbar-thumb
+{
+    border-radius: 10px;
+    width: 0.4px;
+    height:1px;
+    background-color: #BCC0C4;
+}

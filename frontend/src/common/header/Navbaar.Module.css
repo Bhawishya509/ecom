@@ -1,0 +1,83 @@
+*
+{
+    margin:0%;
+    padding:0%;
+}
+
+.nav-item:hover
+{
+  background-color: rgb(219, 215, 215);
+  border-radius: 4px;
+
+
+}
+.navbar
+{
+    
+    box-shadow: 3px 1px 10px 3px rgb(194, 187, 187);
+    
+}
+.nav-item
+{
+      color:rgb(248, 132, 31);
+      display:flex;
+}
+.nav-link
+{
+    display:flex;
+    
+}
+.container-fluid
+{
+    font-weight: 600;
+
+    
+
+}
+.icons
+{
+   /* margin-top:"1px" */
+   font-size: 1.80rem;
+   
+  
+}
+.iconss
+{
+    display:flex;
+    flex-direction:row;
+    height:25px;
+    width: 25px;
+    border-radius: 50%;
+    background-image: url("https://5.imimg.com/data5/DG/PC/MY-51400206/taddybear-500x500.jpeg");
+    background-size: cover;
+    /* background-position: center; */
+    background-repeat:no-repeat;
+}
+
+.postion
+{
+    display:flex;
+    height:18px;
+    width:18px;
+    margin-left:1.58%;
+    background-color: rgb(235, 17, 17);
+    border-radius: 50%;
+    
+    position:absolute;
+
+}
+.poschild
+{
+   
+  width:100%;
+    color:#ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+/* .navbar
+{
+    background-colo
+} */
